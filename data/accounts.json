@@ -1,0 +1,15 @@
+{
+    "account": [
+        {
+            "username": "tuong.com",
+            "password": "abc",
+            "is_success": true
+        },
+
+        {
+            "username": "tuong.com",
+            "password": "123",
+            "is_success": false  
+        }
+    ]
+}

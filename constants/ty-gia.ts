@@ -1,0 +1,2 @@
+const USD_TO_VND = 25000;
+const EURO_TO_VND = 32000;
